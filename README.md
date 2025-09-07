@@ -4,7 +4,7 @@ Um projeto simples e moderno de **FAQ (Frequently Asked Questions)**, desenvolvi
 O objetivo foi criar uma interface limpa, responsiva e funcional que pode ser aplicada em qualquer site de e-commerce ou institucional.
 
 ## Demonstração
-Veja o projeto online aqui: [Link do projeto hospedado]() <br><br>
+Veja o projeto online aqui: [Projeto hospedado](https://frequently-asked-questionss.netlify.app/) <br><br>
 <img src="img/preview.png" alt="Preview do projeto" width="600" />
 
 ## Tecnologias
