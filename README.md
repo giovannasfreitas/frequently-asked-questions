@@ -1,10 +1,11 @@
-# FAQ Interativo ❓
+# FAQs
 
 Um projeto simples e moderno de **FAQ (Frequently Asked Questions)**, desenvolvido com **HTML, CSS e JavaScript puro**.  
 O objetivo foi criar uma interface limpa, responsiva e funcional que pode ser aplicada em qualquer site de e-commerce ou institucional.
 
 ## Demonstração
-👉 [Link do projeto hospedado]()
+Veja o projeto online aqui: [Link do projeto hospedado]() <br><br>
+<img src="img/preview.png" alt="Preview do projeto" width="600" />
 
 ## Tecnologias
 - HTML5
